@@ -1,0 +1,43 @@
+﻿@model IEnumerable<GPS_Taxi.Models.order>
+@{
+    ViewBag.Title = "Hostory";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Історія замовлень</h2>
+
+<section class="container operator-view">
+    <div class="table-orders">
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <td>Звідки</td>
+                    <td>Куди</td>
+                    <td>Ціна</td>
+                    <td>Номер телефону</td>
+                    <td>Таксист</td>
+                    <td>Машина</td>
+                    <td>Номер таксиста</td>
+                    <td>Час замовлення</td>
+                    <td>дата замовлення</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.start_location</td>
+                        <td>@item.end_location</td>
+                        <td>@item.price грн</td>
+                        <td>@item.telephone_number</td>
+                        <td>@item.Car.Name</td>
+                        <td>@item.Car.Car1</td>
+                        <td>@item.Car.tel_number</td>
+                        <td>@item.time_do_order.Hours : @item.time_do_order.Minutes</td>
+                        <td>@item.date_do_order</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>

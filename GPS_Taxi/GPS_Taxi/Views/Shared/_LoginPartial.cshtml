@@ -1,0 +1,7 @@
+﻿@using Microsoft.AspNet.Identity
+
+    <ul class="nav navbar-nav navbar-right">
+        <li><a>@User.Identity.Name</a></li>
+        <li>@Html.ActionLink("Вийти", "Login", "Account")</li>
+    </ul>
+

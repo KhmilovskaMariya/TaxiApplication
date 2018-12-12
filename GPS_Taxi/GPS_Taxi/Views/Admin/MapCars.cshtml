@@ -1,0 +1,46 @@
+﻿@model IEnumerable<GPS_Taxi.Models.Car>
+@{
+    ViewBag.Title = "MapCars";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<script src="~/Scripts/AllTaxi.js"></script>
+<div class="order-information">
+    
+    <h3>Місцезнаходження автомобілів</h3>
+</div>
+
+<div id="map_canvas" style="width:450px; height:400px"></div>
+
+<section class="container operator-view" style="float:left; font-size:12px">
+    <div style="padding-top:5px" class="table-orders">
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <td>Таксист</td>
+                    <td>Автомобіль</td>
+                    <td>Номер</td>
+                    <td>Телефон</td>
+                    <td>Стан</td>
+                    <td></td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Car1</td>
+                        <td>@item.car_number</td>
+                        <td>@item.tel_number</td>
+                        <td>@item.state</td>
+                        <td>
+                            <a href='@Url.Action("ChangeTaxiState", "Admin", 
+                            new { ID = @item.id })'>Змінити</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
+<div style="clear: both"></div>

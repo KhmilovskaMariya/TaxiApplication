@@ -1,0 +1,34 @@
+﻿@model GPS_Taxi.Models.Car
+@{
+    ViewBag.Title = "ChangeTaxiState";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<section class="container operator-view-taxi">
+    @using (Html.BeginForm("ConfirmTaxiState", "Admin", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+    <div class="order-information">
+        <h4>Таксі</h4>
+        <input type="hidden" name="ID_taxi" value="@Model.id" />
+        <input type="text" value="@Model.Name" class="form-control">
+        Автомобіль:
+        <input type="text" value="@Model.Car1" class="form-control">
+        Номер автомобіля:
+        <input type="text" value="@Model.car_number" class="form-control">
+        Номер телефону:
+        <input type="text" value="@Model.tel_number" class="form-control">
+
+        Стан:
+        <select class="form-control select-category" name="State" id="select-state">
+            <option value="зайнятий">Зайнятий</option>
+            <option value="вільний">Вільний</option>
+        </select>
+
+        <input style="margin-top: 20px" type="submit" value="Оформити" class="btn btn-primary form-control" class="form-control">
+    </div>
+    }
+</section>
+

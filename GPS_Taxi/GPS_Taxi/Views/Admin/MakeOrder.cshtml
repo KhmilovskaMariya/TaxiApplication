@@ -1,0 +1,49 @@
+﻿@model GPS_Taxi.ViewModel.TaxiToOrder
+@{
+    ViewBag.Title = "MakeOrder";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<script src="~/Scripts/TaxiMap.js"></script>
+
+
+<div class="order-information">
+    <h3>Замовлення</h3>
+    <input type="hidden" value="@Model.ord.id" id="order_id">
+    Звідки:<span>@Model.ord.start_location</span><br>
+    Куди:<span>@Model.ord.end_location</span><br>
+    Номер телефону:<span>@Model.ord.telephone_number</span><br>
+</div>
+
+<div id="map_canvas" style="width:550px; height:450px"></div>
+
+<section class="container operator-view" style="float:left">
+    <div style="padding-top:5px" class="table-orders">
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <td>Машина</td>
+                    <td>Назва</td>
+                    <td>Телефон</td>
+                    <td></td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model.cars)
+                {
+                    <tr>
+                        <td>@item.Car1</td>
+                        <td>@item.Name</td>
+                        <td>@item.tel_number</td>
+                        <td>
+                            <a href='@Url.Action("ConfirmOrder", "Admin",
+                            new { ID_order = @Model.ord.id, ID_taxi = @item.id })'>Вибрати машину</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
+<div style="clear: both"></div>
+

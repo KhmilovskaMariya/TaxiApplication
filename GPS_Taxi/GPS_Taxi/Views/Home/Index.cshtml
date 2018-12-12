@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Scripts/GoogleMapScript.js"></script>
+<section class="container client-view">
+
+    <div id="map_canvas" style="width:540px; height:500px"></div>
+
+    <div class="form-order">
+        @using (Html.BeginForm("MakeOrder", "Home", FormMethod.Get))
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+
+            <div class="form-horizontal">
+                <h2>Замовити таксі</h2><br>
+                <label>Від:</label><input type="text" class="form-control" id="pac-input">
+                До:<input type="text" class="form-control" id="pac-input-to">
+                Номер телефону: <input type="text" class="form-control" id="tel-number">
+
+                <div id="order-inf">
+                    Відстань: 
+                    <input type="text" class="form-control" id="distance">
+                    Тривалість: 
+                    <input type="text" class="form-control" id="time">
+                    Ціна: 
+                    <input type="text" class="form-control" id="price">
+                    <h3 class="label label-success" id="order_succ"></h3>
+                    <h3 class="label label-danger" id="order_fail"></h3>
+                    <h3 class="label label-info" id="order_info"></h3>
+                    <div class="order-confirm">
+                        <input id="confirm-button" style="margin-top:10px" type="button" value="Підтвердити замовлення" class="btn btn-primary form-control" data-toggle="modal" data-target="#myModal_2">
+                        @Html.ActionLink("Сформувати нове замовлення", "Index", "Home")
+                    </div>
+                </div>
+
+                <br>
+                <input id="cl"  type="button" onclick="GetPrice()" value="Прокласти маршрут" class="btn btn-primary form-control">
+            </div>
+        }
+    </div>
+
+    <div class="modal fade" id="myModal_2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div style="width:340px" class="modal-dialog">
+            <div class="modal-content">
+
+                <div class="modal-number-window">
+                    <h3>Введіть отриманий код</h3>
+                    <input styl="width:100%" type="text" class="form-control" id="confirm-code">
+                    <br>
+                    <input type="button" onclick="ConfirmOrder()" class="btn btn-primary form-control" value="Підтвердити замовлення" data-dismiss="modal">
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+

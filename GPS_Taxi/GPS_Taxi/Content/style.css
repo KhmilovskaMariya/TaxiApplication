@@ -1,0 +1,55 @@
+body {
+	background-color: #e1e1e1;
+}
+p {
+	font-size:12px;
+}
+a {
+	color:#000;
+}
+header {
+	background-color:#a1a1a1;
+	height:100px;
+	width:100%;
+}
+#order-inf {
+	display:none;
+}
+.client-view {
+	padding: 20px 0 20px 0;
+}
+.map-canvas {
+	float:left;
+	padding: 0 40px 0 0;
+}
+.form-order {
+	float:left;
+	max-width:400px;
+	width:100%;
+}
+h2 {
+	margin: 0px;
+}
+.modal-number-window {
+	padding: 20px;
+}
+
+.order-information {
+	padding: 10px 0 20px 0;
+}
+
+.map-all-taxis {
+	float:left;
+	padding: 0 30px 0 0;
+}
+.table-orders {
+	padding: 40px 5px 20px 5px;
+}
+#map_canvas {
+	float:left;
+	margin-right: 40px;
+}
+.logo {
+	margin: 8px 0 0 0;
+	color:#e5e5e5;
+}

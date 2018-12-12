@@ -1,0 +1,40 @@
+﻿@model GPS_Taxi.ViewModel.Confirm
+@{
+    ViewBag.Title = "ConfirmOrder";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<section class="container operator-view-taxi">
+    @using (Html.BeginForm("ConfirmOrderSuccess", "Admin", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+        <div class="order-information">
+            <h3>Замовлення</h3><br>
+            <h4>Клієнт</h4>
+            Звідки:
+            <input type="hidden" value="@Model.ord.id" name="ID_order"> 
+            <input type="hidden" value="@Model.taxi.id" name="ID_taxi"> 
+            <input type="text" value="@Model.ord.start_location" class="form-control">
+            Куди:
+            <input type="text" value="@Model.ord.end_location" class="form-control">
+            Номер телефону:
+            <input type="text" value="@Model.ord.telephone_number" class="form-control">
+            <br>
+            <h4>Таксі</h4>
+            <input type="text" value="@Model.taxi.Name" class="form-control">
+            Автомобіль:
+            <input type="text" value="@Model.taxi.Car1" class="form-control">
+            Номер автомобіля:
+            <input type="text" value="@Model.taxi.car_number" class="form-control">
+            Номер таксиста:
+            <input type="text" value="@Model.taxi.tel_number" class="form-control">
+
+            Ціна:<input type="text" value="@Model.ord.price грн" class="form-control">
+            Час:<input type="text" value="@Model.ord.time_road хв" class="form-control">
+            Відстань:<input type="text" value="@Model.ord.distance км" class="form-control">
+            <input style="margin-top: 20px" type="submit" value="Оформити" class="btn btn-primary form-control" class="form-control">
+        </div>
+    }
+</section>
+

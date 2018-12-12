@@ -1,0 +1,233 @@
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\GPS_Taxi.dll.config
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\GPS_Taxi.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\GPS_Taxi.pdb
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Antlr3.Runtime.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.SqlServer.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Newtonsoft.Json.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Owin.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Helpers.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Mvc.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Optimization.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Razor.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Razor.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\WebGrease.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Helpers.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Mvc.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Optimization.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Razor.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Razor.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Newtonsoft.Json.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Antlr3.Runtime.pdb
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.SqlServer.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.csprojResolveAssemblyReference.cache
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.pdb
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\RestSharp.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Api.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Mvc.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Twiml.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\RestSharp.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Api.pdb
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Api.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Mvc.pdb
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Mvc.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Twiml.pdb
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Twiml.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Net.Http.Formatting.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.WebHost.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Net.Http.Formatting.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.WebHost.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.Net4.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.dll
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.pdb
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.xml
+D:\Work\Seniv\TaxiGPS\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.Net4.pdb
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.Net4.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\GPS_Taxi.dll.config
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\GPS_Taxi.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\GPS_Taxi.pdb
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Antlr3.Runtime.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.SqlServer.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Newtonsoft.Json.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Owin.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\RestSharp.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Net.Http.Formatting.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Helpers.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.WebHost.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Mvc.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Optimization.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Razor.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Razor.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Api.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Mvc.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Twiml.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\WebGrease.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.pdb
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.Net4.pdb
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\RestSharp.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Net.Http.Formatting.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.WebHost.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Helpers.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Mvc.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Optimization.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Razor.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Razor.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Newtonsoft.Json.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Api.pdb
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Api.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Mvc.pdb
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Mvc.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Twiml.pdb
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Twiml.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Antlr3.Runtime.pdb
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.SqlServer.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.csprojResolveAssemblyReference.cache
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.dll
+C:\Users\matse\Documents\taxi gps\new taxi\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.pdb
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.Net4.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\GPS_Taxi.dll.config
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\GPS_Taxi.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\GPS_Taxi.pdb
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Antlr3.Runtime.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.SqlServer.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Newtonsoft.Json.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Owin.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\RestSharp.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Net.Http.Formatting.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Helpers.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.WebHost.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Mvc.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Optimization.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Razor.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Razor.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Api.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Mvc.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Twiml.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\WebGrease.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.pdb
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\AutoMapper.Net4.pdb
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\RestSharp.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Net.Http.Formatting.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Http.WebHost.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Helpers.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Mvc.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Optimization.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.Razor.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\System.Web.WebPages.Razor.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Newtonsoft.Json.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Api.pdb
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Api.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Mvc.pdb
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Mvc.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Twiml.pdb
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Twilio.Twiml.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Antlr3.Runtime.pdb
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\EntityFramework.SqlServer.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.dll
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.pdb
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.csprojAssemblyReference.cache
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.csproj.CoreCompileInputs.cache
+C:\Users\m.khmilovska\Desktop\new taxi\Project\GPS_Taxi\GPS_Taxi\obj\Debug\GPS_Taxi.csproj.CopyComplete

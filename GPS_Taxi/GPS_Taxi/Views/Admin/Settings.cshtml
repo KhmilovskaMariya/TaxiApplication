@@ -1,0 +1,22 @@
+﻿@model GPS_Taxi.Models.RoadPrice
+@{
+    ViewBag.Title = "Settings";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<section class="container operator-view-taxi">
+    @using (Html.BeginForm("ChangeSettings", "Admin", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+    <div class="order-information">
+        <h4>Налаштування</h4>
+        Тариф поточний:
+        <input type="text" value="@Model.value" class="form-control">
+        Змінити на:
+        <input type="text" name="NewValue" value="" placeholder="Вкажіть новий тариф" class="form-control">
+
+        <input style="margin-top: 20px" type="submit" value="Змінити" class="btn btn-primary form-control" class="form-control">
+    </div>
+    }
+</section>
